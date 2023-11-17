@@ -1,0 +1,42 @@
+{
+	"name": "MoreBackups",
+	"namespace": "KANA",
+	"version_number": "1.0.2",
+	"description": "[img=420]res://mods-unpacked/KANA-MoreBackups/content/Icon.png[/img]",
+	"website_url": "https://github.com/BrotatoMods",
+	"dependencies": [
+
+	],
+	"extra": {
+		"godot": {
+			"authors": [
+				"KANA"
+			],
+			"optional_dependencies": [
+
+			],
+			"compatible_game_version": [
+				"1.0.0.3"
+			],
+			"compatible_mod_loader_version": [
+				"6.0.0",
+				"6.1.0",
+				"6.2.0"
+			],
+			"incompatibilities": [
+
+			],
+			"load_before": [
+
+			],
+			"tags": [
+				"backups"
+			],
+			"config_schema": {
+
+			},
+			"description_rich": "",
+			"image": null
+		}
+	}
+}
